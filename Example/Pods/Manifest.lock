@@ -1,0 +1,23 @@
+PODS:
+  - LEGOToast-Swift (0.1.0):
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - LEGOToast-Swift (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  LEGOToast-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LEGOToast-Swift: 045d57809c6d6eccb1f7c5a638edcdb02f99a294
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: bf88fbfede0f025dd55537b9f60c75ad0db74180
+
+COCOAPODS: 1.9.1

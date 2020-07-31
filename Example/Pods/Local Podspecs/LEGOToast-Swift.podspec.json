@@ -1,0 +1,33 @@
+{
+  "name": "LEGOToast-Swift",
+  "version": "0.1.0",
+  "summary": "A short description of LEGOToast-Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/legokit/LEGOToast-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "564008993@qq.com": "yangqingren@yy.com"
+  },
+  "source": {
+    "git": "https://github.com/legokit/LEGOToast-Swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LEGOToast-Swift/Classes/**/*",
+  "swift_versions": "5.0",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,6 @@
+framework module LEGOToast_Swift {
+  umbrella header "LEGOToast-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

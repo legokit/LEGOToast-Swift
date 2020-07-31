@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LEGOToast-Swift_Example' do
+  pod 'LEGOToast-Swift', :path => '../'
+
+  target 'LEGOToast-Swift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
